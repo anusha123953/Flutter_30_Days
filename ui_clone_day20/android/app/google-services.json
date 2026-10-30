@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92089252415",
+    "project_id": "flutter-day25-demo",
+    "storage_bucket": "flutter-day25-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92089252415:android:a45dec360b73bcd719568a",
+        "android_client_info": {
+          "package_name": "com.anusha.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR61dneuah16-z6u0uMlcOarO8g5H9k7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
